@@ -319,6 +319,7 @@ function FindProxyForURL(url, host)
 	|| dnsDomainIs(host, ".centrport.net")
 	|| dnsDomainIs(host, ".centrport.com")
 	|| dnsDomainIs(host, ".rampidads.com")
+	
 
 	|| dnsDomainIs(host, ".dt07.net")
 
@@ -361,6 +362,7 @@ function FindProxyForURL(url, host)
 	// web ads and "cheap Long Distance"
 	|| dnsDomainIs(host, "zonecms.com")
 	|| dnsDomainIs(host, "zoneld.com")
+	|| dnsDomainIs(host, "ads.youtube.com")
 
 	// AOL
 	|| dnsDomainIs(host, ".atwola.com")
