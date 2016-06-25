@@ -11,4 +11,7 @@ Instructions :
 
 3.Tap on your Home Network
 
-4.change http proxy to auto and paste the url [fullblock]<https://raw.githubusercontent.com/ramuthumu/fullblock/master/fullblock_script> in the field 
+4.change http proxy to auto and paste the url [fullblock](https://raw.githubusercontent.com/ramuthumu/fullblock/master/fullblock_script) in the field 
+
+5.That's it Now you are blocking most intrusive adds on your iphone not only in safari but also with in the apps 
+
