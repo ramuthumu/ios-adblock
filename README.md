@@ -5,11 +5,11 @@ paste the pac url in the proxy settings under wifi settings in your iphone and s
 
 Instructions :
 
-1.Open settings in your iphone app
+1.Open settings in your iphone
 
-2.select WiFi settings 
+2.select WiFi then tap on the info (i)
 
-3.Tap on your Home Network
+3.Scroll down to http proxy setting
 
 4.change http proxy to auto and paste the url [fullblock](https://raw.githubusercontent.com/ramuthumu/fullblock/master/fullblock_script) in the field 
 
