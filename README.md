@@ -11,7 +11,7 @@ Instructions :
 
 3.Scroll down to http proxy setting
 
-4.change http proxy to auto and paste the url [iadblocker](https://raw.githubusercontent.com/ramuthumu/ios-adblock/master/iadblock) in the field 
+4.change http proxy to auto and paste the url [iadblocker](https://raw.githubusercontent.com/ramuthumu/ios-adblock/master/iadblock.pac) in the field 
 
 5.That's it Now you are blocking most intrusive adds on your iphone not only in safari but also with in the apps 
 
