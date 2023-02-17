@@ -6,7 +6,7 @@ To use a PAC file to block ads on an iPhone, you can follow these steps:
 1. Open the "Settings" app on your iPhone.
 2. Tap on "Wi-Fi" and connect to a Wi-Fi network.
 3. Tap on the "i" icon next to the network name to access the network settings.
-4 Scroll down and tap on "Configure Proxy."
+4. Scroll down and tap on "Configure Proxy."
 5. Choose "Automatic" and enter the URL for the PAC file in the "URL" field. You can use the following URL: https://raw.githubusercontent.com/ramuthumu/ios-adblock/master/iadblock.pac
 6 Tap on "Save" to apply the settings.
 
