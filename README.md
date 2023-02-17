@@ -1,5 +1,6 @@
 # ios-adblock
 block every add in your iphone even the adds with in the app
+
 To use a PAC file to block ads on an iPhone, you can follow these steps:
 
 1. Open the "Settings" app on your iPhone.
